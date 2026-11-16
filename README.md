@@ -8,5 +8,5 @@ A simulation of foxes and rabbits inspired by the Lotka-Volterra equations. The 
 
 
 2 year edit: 
-This was one of my first projects ever! So I'm keeping it here for posterity. Yes, the code is atrocious. If you use VSCode, try not to use debug mode since it will be rather laggy.
+This was one of my first projects ever! So I'm keeping it here for posterity. 
 
